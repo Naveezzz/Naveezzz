@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h2>🚀 Web Developer | AWS DevOps Engineer | Cloud Enthusiast</h2>
+      <h2>🚀 AWS DevOps Engineer | Web Developer | Cloud Enthusiast</h2>
       <p>
         I’m passionate about building scalable automating cloud infrastructure.  
         With a strong foundation in <b>Web development</b> and <b>AWS DevOps practices</b>,  
