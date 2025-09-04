@@ -1,20 +1,26 @@
 # 🍁 Hi, I'm Naveen 🍂
 
+<div align="center">
+
 <table>
   <tr>
-    <td>
+    <td width="100%" align="center">
       <h2>🚀 AWS DevOps Engineer | Web Developer | Cloud Enthusiast</h2>
       <p>
-        I’m passionate about building scalable automating cloud infrastructure.  
-        With a strong foundation in <b>Web development</b> and <b>AWS DevOps practices</b>,  
+        I’m passionate about building scalable automating cloud infrastructure.<br/>
+        With a strong foundation in <b>Web development</b> and <b>AWS DevOps practices</b>,<br/>
         I love solving problems at the intersection of development and operations.
       </p>
     </td>
-    <td>
-      <img src="https://s2.ezgif.com/tmp/ezgif-28b17bff1aa32e.gif" width="550"/>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://s2.ezgif.com/tmp/ezgif-28b17bff1aa32e.gif" width="100%" />
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
