@@ -1,10 +1,10 @@
 # 🍁 Hi, I'm Naveen 🍂
-
+---
 <div align="center">
 
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td style="vertical-align: top; padding: 10px; min-width: 250px;">
       <h2>🚀 AWS DevOps Engineer | Web Developer | Cloud Enthusiast</h2>
       <p>
         I’m passionate about building scalable automating cloud infrastructure.<br/>
@@ -12,15 +12,14 @@
         I love solving problems at the intersection of development and operations.
       </p>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://s2.ezgif.com/tmp/ezgif-28b17bff1aa32e.gif" width="100%" />
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://s2.ezgif.com/tmp/ezgif-28b17bff1aa32e.gif" width="100%" style="max-width: 400px; height: auto;"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
