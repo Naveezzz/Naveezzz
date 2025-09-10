@@ -13,7 +13,7 @@
       </p>
     </td>
     <td style="padding: 10px; text-align: center;">
-      <img src="https://s2.ezgif.com/tmp/ezgif-28b17bff1aa32e.gif" width="100%" style="max-width: 400px; height: auto;"/>
+      <img src="https://static.wixstatic.com/media/c81706_1db7f140303640c0a36a44b8bafb249f~mv2.gif" width="100%" style="max-width: 400px; height: auto;"/>
     </td>
   </tr>
 </table>
