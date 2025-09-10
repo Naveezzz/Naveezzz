@@ -24,7 +24,7 @@
 ---
 
 ## 🔥 About Me  
-- 💻 Skilled in **Html CSS Python Flask JavaScript**  
+- 💻 Skilled in **Html CSS Python Flask JavaScript(Vibe Coding)**  
 - ☁️ Experienced with **AWS (EC2, Lambda, S3, CloudFormation, ECS, EKS)**  
 - ⚡ Proficient in **CI/CD pipelines** using **GitHub Actions, Jenkins, GitLab CI/CD**  
 - 🛠️ Hands-on with **Docker & Kubernetes**  
